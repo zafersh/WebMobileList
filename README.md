@@ -1,4 +1,4 @@
 # WebMobileList
 
-Please check the report at: https://github.com/zafersh/InfinitList
+Please check the repo at: https://github.com/zafersh/InfinitList
 
